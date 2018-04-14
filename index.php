@@ -5,8 +5,8 @@
 </head>
 
 <body>
-    <h1>Hello world</h1>
     
+    <?php echo "hello itot" ?>
 
 </body>
 
